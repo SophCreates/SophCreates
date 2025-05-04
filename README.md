@@ -9,7 +9,7 @@ I'm an aspiring front-end developer with a love for clean designs, smooth intera
 - 📚 Currently diving into **JavaScript** to bring my pages to life  
 - 🎨 Obsessed with making websites look
 - ☁️ Dreaming of becoming a standout front-end developer  
-- ✨ I'm also into Content creation and writing
+- ✨ I'm also into Creative writing
 
 ## 🌱 Currently Learning  
 - JavaScript basics & DOM manipulation  
